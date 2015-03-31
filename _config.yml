@@ -1,0 +1,12 @@
+# Site settings
+title: "Yellong's Blog"
+email: yellongweek@gmail.com
+description: > 
+  存放一些碎片的地方
+baseurl: ""
+url: "http://yellong.com"
+twitter_username: yellong
+github_username: yellong
+
+# Build settings
+markdown: kramdown
